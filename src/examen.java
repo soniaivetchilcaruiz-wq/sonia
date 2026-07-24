@@ -86,7 +86,7 @@ public class examen {
                     System.out.println("Opcion no valida.");
             }
 
-        } while (opcion != 4);
+        } while (opcion != 4 );
 
         sc.close();
     }
